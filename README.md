@@ -4,7 +4,6 @@
 
 I enjoy designing practical and reliable engineering solutions by combining hardware and software. My interests include microcontroller programming, embedded C, STM32, ESP32, automotive systems, and intelligent technologies.
 ## 🛠️ Tech Stack
-## 🛠️ Tech Stack
 **MCUs:** STM32 · ESP32 · Arduino · PIC  
 **Languages:** C · C++ · Assembly · Python  
 **Tools:** Linux · Git · MATLAB/Simulink · Altium Designer  
